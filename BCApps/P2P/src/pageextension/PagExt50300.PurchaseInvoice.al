@@ -30,7 +30,7 @@ pageextension 50300 "Purchase Invoice" extends "Purchase Invoice"
 
                 trigger OnAction()
                 begin
-                    Message('NEW HELLO FROM NL PROD!!!');
+                    Message('NEW HELLO FROM NL PROD!');
                 end;
             }
         }
