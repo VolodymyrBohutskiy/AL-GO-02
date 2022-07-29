@@ -1,8 +1,8 @@
 ﻿{
-    "id":  "e5258d32-c879-495f-900d-be4428ad5f87",
+    "id":  "ed0968a9-6607-4084-81e5-c1bad3d7b8ae",
     "name":  "OTC",
     "publisher":  "Global Mediator",
-    "version":  "1.0.0.0",
+    "version":  "1.0.14.0",
     "brief":  "",
     "description":  "",
     "privacyStatement":  "",
@@ -11,19 +11,25 @@
     "url":  "",
     "logo":  "",
     "dependencies":  [
-
+        {
+            "id": "10cb69d9-bc8a-4d27-970a-9e110e9db2a5",
+            "name": "_Exclude_APIV2_",
+            "version": "20.0.0.0",
+            "publisher": "Microsoft"
+          }
                      ],
     "screenshots":  [
 
                     ],
-    "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
+    "platform": "20.0.0.0",
+    "application": "1.0.0.0",
     "idRanges":  [
                      {
                          "from":  50200,
                          "to":  50210
                      }
                  ],
+     "runtime": "9.0",
     "resourceExposurePolicy":  {
                                    "allowDebugging":  true,
                                    "allowDownloadingSource":  false,

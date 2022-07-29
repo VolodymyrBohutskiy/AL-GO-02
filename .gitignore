@@ -6,4 +6,7 @@ rad.json
 .output
 .alcache/
 .altemplates/
+.alpackages/*
 cache_*
+.vscode/
+!app.json

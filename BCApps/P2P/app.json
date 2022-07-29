@@ -1,8 +1,8 @@
 ﻿{
-    "id":  "d079e815-8942-4fb3-95d2-166ed52228b2",
+    "id":  "16b844e0-3445-4763-84d8-70957469e4c4",
     "name":  "P2P",
     "publisher":  "Global Mediator",
-    "version":  "1.0.0.0",
+    "version":  "1.0.1.0",
     "brief":  "",
     "description":  "",
     "privacyStatement":  "",
@@ -10,20 +10,19 @@
     "help":  "",
     "url":  "",
     "logo":  "",
-    "dependencies":  [
-
-                     ],
+    "dependencies":  [],
     "screenshots":  [
 
                     ],
-    "platform":  "1.0.0.0",
-    "application":  "19.0.0.0",
+    "platform": "20.0.0.0",
+    "application": "1.0.0.0",
     "idRanges":  [
                      {
                          "from":  50300,
-                         "to":  50349
+                         "to":  50310
                      }
                  ],
+     "runtime": "9.0",
     "resourceExposurePolicy":  {
                                    "allowDebugging":  true,
                                    "allowDownloadingSource":  false,
