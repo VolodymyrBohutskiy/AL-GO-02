@@ -1,6 +1,8 @@
 {
     "country":  "us",
     "appFolders":  [
+        ./OTC,
+        ./P2P
     ],
     "testFolders":  [
     ]
